@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/fylo-dark-theme-landing-page/static/css/main.cc1595a6.chunk.css",
+    "main.js": "/fylo-dark-theme-landing-page/static/js/main.49ac193d.chunk.js",
+    "main.js.map": "/fylo-dark-theme-landing-page/static/js/main.49ac193d.chunk.js.map",
+    "runtime-main.js": "/fylo-dark-theme-landing-page/static/js/runtime-main.b641cc84.js",
+    "runtime-main.js.map": "/fylo-dark-theme-landing-page/static/js/runtime-main.b641cc84.js.map",
+    "static/css/2.f3d36a28.chunk.css": "/fylo-dark-theme-landing-page/static/css/2.f3d36a28.chunk.css",
+    "static/js/2.1023caa7.chunk.js": "/fylo-dark-theme-landing-page/static/js/2.1023caa7.chunk.js",
+    "static/js/2.1023caa7.chunk.js.map": "/fylo-dark-theme-landing-page/static/js/2.1023caa7.chunk.js.map",
+    "static/js/3.1ffe6102.chunk.js": "/fylo-dark-theme-landing-page/static/js/3.1ffe6102.chunk.js",
+    "static/js/3.1ffe6102.chunk.js.map": "/fylo-dark-theme-landing-page/static/js/3.1ffe6102.chunk.js.map",
+    "index.html": "/fylo-dark-theme-landing-page/index.html",
+    "static/css/2.f3d36a28.chunk.css.map": "/fylo-dark-theme-landing-page/static/css/2.f3d36a28.chunk.css.map",
+    "static/css/main.cc1595a6.chunk.css.map": "/fylo-dark-theme-landing-page/static/css/main.cc1595a6.chunk.css.map",
+    "static/js/2.1023caa7.chunk.js.LICENSE.txt": "/fylo-dark-theme-landing-page/static/js/2.1023caa7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fylo-dark-theme-landing-page/static/media/bg-curvy-mobile.3ab5d2c7.svg",
+    "static/media/font-awesome.css": "/fylo-dark-theme-landing-page/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/icon-access-anywhere.2856c661.svg": "/fylo-dark-theme-landing-page/static/media/icon-access-anywhere.2856c661.svg",
+    "static/media/icon-any-file.fc9b91ba.svg": "/fylo-dark-theme-landing-page/static/media/icon-any-file.fc9b91ba.svg",
+    "static/media/icon-arrow.2491a46a.svg": "/fylo-dark-theme-landing-page/static/media/icon-arrow.2491a46a.svg",
+    "static/media/icon-collaboration.6c80c0a4.svg": "/fylo-dark-theme-landing-page/static/media/icon-collaboration.6c80c0a4.svg",
+    "static/media/icon-email.201ea9e2.svg": "/fylo-dark-theme-landing-page/static/media/icon-email.201ea9e2.svg",
+    "static/media/icon-location.a681f02d.svg": "/fylo-dark-theme-landing-page/static/media/icon-location.a681f02d.svg",
+    "static/media/icon-phone.43c05d1a.svg": "/fylo-dark-theme-landing-page/static/media/icon-phone.43c05d1a.svg",
+    "static/media/icon-security.b6a932b6.svg": "/fylo-dark-theme-landing-page/static/media/icon-security.b6a932b6.svg",
+    "static/media/illustration-intro.c20d8525.png": "/fylo-dark-theme-landing-page/static/media/illustration-intro.c20d8525.png",
+    "static/media/illustration-stay-productive.5d7a50ea.png": "/fylo-dark-theme-landing-page/static/media/illustration-stay-productive.5d7a50ea.png",
+    "static/media/logo.f5363383.svg": "/fylo-dark-theme-landing-page/static/media/logo.f5363383.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b641cc84.js",
+    "static/css/2.f3d36a28.chunk.css",
+    "static/js/2.1023caa7.chunk.js",
+    "static/css/main.cc1595a6.chunk.css",
+    "static/js/main.49ac193d.chunk.js"
+  ]
+}
